@@ -18,16 +18,16 @@ A Colorado Board of Elections employee has given you the following task to compl
  The analysis of the election show that:
  - There were "x" vote cast in the election.
  - The candidate were:
-   - Candidate 1
-   - Candidate 2
-   - Candidate 3
+   - Candidate 1: Charles Casper Stockham
+   - Candidate 2: Diana DeGette
+   - Candidate 3: Raymon Anthony Doane
  - Thee candidate results were:
-   - Candidate 1 received "x%" of the voye and "y" number of vote.
-   - Candidate 2 received "x%" of the voye and "y" number of vote.
-   - Candidate 3 received "x%" of the voye and "y" number of vote.
+   - Candidate 1 received "23.0%" of the vote and "85,213" number of vote.
+   - Candidate 2 received "73.8%" of the vote and "272,892" number of vote.
+   - Candidate 3 received "3.1%" of the vote and "11,606" number of vote.
    
  - The winner of the election was:
-  - Candidate (1, 2 or 3), who received "x" of the vote and "y" number of votes.
+  - Candidate 2 who received "73.8%" of the vote and "272,892" number of votes.
   
  ## Challenge Overview
  
